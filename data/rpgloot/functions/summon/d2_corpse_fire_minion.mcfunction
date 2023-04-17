@@ -1,0 +1,2 @@
+summon minecraft:zombie ~ ~ ~ {CustomName:'[{"text":"Sługa","color":"dark_blue"}]',DeathLootTable:"rpgloot:veteran_loot",Health:50,OnGround:1b,PersistenceRequired:1b,Silent:1b,ActiveEffects:[{Id:12,Duration:99999,Amplifier:2,ShowParticles:0b},{Id:2,Duration:99999,Amplifier:1,ShowParticles:0b}],Attributes:[{Name:"generic.attack_damage",Base:25f},{Name:"generic.armor",Base:12f},{Name:"generic.max_health",Base:50f}]}
+effect give @a[distance=0..50] slowness 30 2 true
