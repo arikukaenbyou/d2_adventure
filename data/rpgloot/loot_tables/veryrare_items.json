@@ -51,16 +51,7 @@
 							"text": "Very Rare Wooden Sword",
 							"color": "dark_purple"
 							}
-						},
-                        {
-                            "function": "enchant_with_levels",
-                            "treasure": true,
-                            "levels": {
-                                "min": 5,
-                                "max": 21,
-                                "type": "minecraft:uniform"
-                            }
-                        }
+						}
                     ]
                 },
 
@@ -107,16 +98,7 @@
 							"text": "Very Rare Stone Sword",
 							"color": "dark_purple"
 							}
-						},
-                        {
-                            "function": "enchant_with_levels",
-                            "treasure": true,
-                            "levels": {
-                                "min": 10,
-                                "max": 28,
-                                "type": "minecraft:uniform"
-                            }
-                        }
+						}
                     ]
                 },
 
@@ -163,16 +145,7 @@
 							"text": "Very Rare Golden Sword",
 							"color": "dark_purple"
 							}
-						},
-                        {
-                            "function": "enchant_with_levels",
-                            "treasure": true,
-                            "levels": {
-                                "min": 64,
-                                "max": 64,
-                                "type": "minecraft:uniform"
-                            }
-                        }
+						}
                     ]
                 },
 
@@ -219,16 +192,7 @@
 							"text": "Very Rare Iron Sword",
 							"color": "dark_purple"
 							}
-						},
-                        {
-                            "function": "enchant_with_levels",
-                            "treasure": true,
-                            "levels": {
-                                "min": 10,
-                                "max": 28,
-                                "type": "minecraft:uniform"
-                            }
-                        }
+						}
                     ]
                 },
 		
@@ -275,16 +239,7 @@
 							"text": "Very Rare Diamond Sword",
 							"color": "dark_purple"
 							}
-						},
-                        {
-                            "function": "enchant_with_levels",
-                            "treasure": true,
-                            "levels": {
-                                "min": 10,
-                                "max": 28,
-                                "type": "minecraft:uniform"
-                            }
-                        }
+						}
                     ]
                 },
 
@@ -331,16 +286,7 @@
 							"text": "Very Rare Wooden Axe",
 							"color": "dark_purple"
 							}
-						},
-                        {
-                            "function": "enchant_with_levels",
-                            "treasure": true,
-                            "levels": {
-                                "min": 5,
-                                "max": 21,
-                                "type": "minecraft:uniform"
-                            }
-                        }
+						}
                     ]
                 },
 
@@ -390,16 +336,7 @@
 							"text": "Very Rare Stone Axe",
 							"color": "dark_purple"
 							}
-						},
-                        {
-                            "function": "enchant_with_levels",
-                            "treasure": true,
-                            "levels": {
-                                "min": 10,
-                                "max": 28,
-                                "type": "minecraft:uniform"
-                            }
-                        }
+						}
                     ]
                 },
 
@@ -446,16 +383,7 @@
 							"text": "Very Rare Golden Axe",
 							"color": "dark_purple"
 							}
-						},
-                        {
-                            "function": "enchant_with_levels",
-                            "treasure": true,
-                            "levels": {
-                                "min": 64,
-                                "max": 64,
-                                "type": "minecraft:uniform"
-                            }
-                        }
+						}
                     ]
                 },
 
@@ -502,16 +430,7 @@
 							"text": "Very Rare Iron Axe",
 							"color": "dark_purple"
 							}
-						},
-                        {
-                            "function": "enchant_with_levels",
-                            "treasure": true,
-                            "levels": {
-                                "min": 10,
-                                "max": 28,
-                                "type": "minecraft:uniform"
-                            }
-                        }
+						}
                     ]
                 },
 		
@@ -559,16 +478,7 @@
 							"text": "Very Rare Diamond Axe",
 							"color": "dark_purple"
 							}
-						},
-                        {
-                            "function": "enchant_with_levels",
-                            "treasure": true,
-                            "levels": {
-                                "min": 10,
-                                "max": 28,
-                                "type": "minecraft:uniform"
-                            }
-                        }
+						}
                     ]
                 },
 				
@@ -614,16 +524,7 @@
 							"text": "Very Rare Trident",
 							"color": "dark_purple"
 							}
-						},
-                        {
-                            "function": "enchant_with_levels",
-                            "treasure": true,
-                            "levels": {
-                                "min": 10,
-                                "max": 28,
-                                "type": "minecraft:uniform"
-                            }
-                        }
+						}
                     ]
                 },
 
@@ -750,16 +651,8 @@
 							"text": "Very Rare Leather Cap",
 							"color": "dark_purple"
 							}
-						},
-                        {
-                            "function": "enchant_with_levels",
-                            "treasure": true,
-                            "levels": {
-                                "min": 5,
-                                "max": 21,
-                                "type": "minecraft:uniform"
-                            }
-                        }
+						}
+                        
                     ]
                 },
 			{
@@ -816,16 +709,7 @@
 							"text": "Very Rare Leather Tunic",
 							"color": "dark_purple"
 							}
-						},
-                        {
-                            "function": "enchant_with_levels",
-                            "treasure": true,
-                            "levels": {
-                                "min": 5,
-                                "max": 21,
-                                "type": "minecraft:uniform"
-                            }
-                        }
+						}
                     ]
                 },
 				
@@ -883,16 +767,7 @@
 							"text": "Very Rare Leather Pants",
 							"color": "dark_purple"
 							}
-						},
-                        {
-                            "function": "enchant_with_levels",
-                            "treasure": true,
-                            "levels": {
-                                "min": 5,
-                                "max": 21,
-                                "type": "minecraft:uniform"
-                            }
-                        }
+						}
                     ]
                 },
 				
@@ -950,16 +825,7 @@
 							"text": "Very Rare Leather Boots",
 							"color": "dark_purple"
 							}
-						},
-                        {
-                            "function": "enchant_with_levels",
-                            "treasure": true,
-                            "levels": {
-                                "min": 5,
-                                "max": 21,
-                                "type": "minecraft:uniform"
-                            }
-                        }
+						}
                     ]
                 },
 				
@@ -1039,16 +905,7 @@
 							"text": "Very Rare Chainmail Helmet",
 							"color": "dark_purple"
 							}
-						},
-                        {
-                            "function": "enchant_with_levels",
-                            "treasure": true,
-                            "levels": {
-                                "min": 10,
-                                "max": 28,
-                                "type": "minecraft:uniform"
-                            }
-                        }
+						}
                     ]
                 },
 			{
@@ -1127,16 +984,7 @@
 							"text": "Very Rare Chainmail Chestplate",
 							"color": "dark_purple"
 							}
-						},
-                        {
-                            "function": "enchant_with_levels",
-                            "treasure": true,
-                            "levels": {
-                                "min": 10,
-                                "max": 28,
-                                "type": "minecraft:uniform"
-                            }
-                        }
+						}
                     ]
                 },
 				
@@ -1216,16 +1064,7 @@
 							"text": "Very Rare Chainmail Leggings",
 							"color": "dark_purple"
 							}
-						},
-                        {
-                            "function": "enchant_with_levels",
-                            "treasure": true,
-                            "levels": {
-                                "min": 10,
-                                "max": 28,
-                                "type": "minecraft:uniform"
-                            }
-                        }
+						}
                     ]
                 },
 				
@@ -1305,16 +1144,7 @@
 							"text": "Very Rare Chainmail Boots",
 							"color": "dark_purple"
 							}
-						},
-                        {
-                            "function": "enchant_with_levels",
-                            "treasure": true,
-                            "levels": {
-                                "min": 10,
-                                "max": 28,
-                                "type": "minecraft:uniform"
-                            }
-                        }
+						}
                     ]
                 },
 		
@@ -1405,16 +1235,7 @@
 							"text": "Very Rare Golden Helmet",
 							"color": "dark_purple"
 							}
-						},
-                        {
-                            "function": "enchant_with_levels",
-                            "treasure": true,
-                            "levels": {
-                                "min": 64,
-                                "max": 64,
-                                "type": "minecraft:uniform"
-                            }
-                        }
+						}
                     ]
                 },
 			{
@@ -1504,16 +1325,7 @@
 							"text": "Very Rare Golden Chestplate",
 							"color": "dark_purple"
 							}
-						},
-                        {
-                            "function": "enchant_with_levels",
-                            "treasure": true,
-                            "levels": {
-                                "min": 64,
-                                "max": 64,
-                                "type": "minecraft:uniform"
-                            }
-                        }
+						}
                     ]
                 },
 				
@@ -1604,16 +1416,7 @@
 							"text": "Very Rare Golden Leggings",
 							"color": "dark_purple"
 							}
-						},
-                        {
-                            "function": "enchant_with_levels",
-                            "treasure": true,
-                            "levels": {
-                                "min": 64,
-                                "max": 64,
-                                "type": "minecraft:uniform"
-                            }
-                        }
+						}
                     ]
                 },
 				
@@ -1704,16 +1507,7 @@
 							"text": "Very Rare Golden Boots",
 							"color": "dark_purple"
 							}
-						},
-                        {
-                            "function": "enchant_with_levels",
-                            "treasure": true,
-                            "levels": {
-                                "min": 64,
-                                "max": 64,
-                                "type": "minecraft:uniform"
-                            }
-                        }
+						}
                     ]
                 },
 				
@@ -1793,16 +1587,7 @@
 							"text": "Very Rare Iron Helmet",
 							"color": "dark_purple"
 							}
-						},
-                        {
-                            "function": "enchant_with_levels",
-                            "treasure": true,
-                            "levels": {
-                                "min": 10,
-                                "max": 28,
-                                "type": "minecraft:uniform"
-                            }
-                        }
+						}
                     ]
                 },
 			{
@@ -1881,16 +1666,7 @@
 							"text": "Very Rare Iron Chestplate",
 							"color": "dark_purple"
 							}
-						},
-                        {
-                            "function": "enchant_with_levels",
-                            "treasure": true,
-                            "levels": {
-                                "min": 10,
-                                "max": 28,
-                                "type": "minecraft:uniform"
-                            }
-                        }
+						}
                     ]
                 },
 				
@@ -1970,16 +1746,7 @@
 							"text": "Very Rare Iron Leggings",
 							"color": "dark_purple"
 							}
-						},
-                        {
-                            "function": "enchant_with_levels",
-                            "treasure": true,
-                            "levels": {
-                                "min": 10,
-                                "max": 28,
-                                "type": "minecraft:uniform"
-                            }
-                        }
+						}
                     ]
                 },
 				
@@ -2059,16 +1826,7 @@
 							"text": "Very Rare Iron Boots",
 							"color": "dark_purple"
 							}
-						},
-                        {
-                            "function": "enchant_with_levels",
-                            "treasure": true,
-                            "levels": {
-                                "min": 10,
-                                "max": 28,
-                                "type": "minecraft:uniform"
-                            }
-                        }
+						}
                     ]
                 },
 		
@@ -2137,16 +1895,7 @@
 							"text": "Very Rare Diamond Helmet",
 							"color": "dark_purple"
 							}
-						},
-                        {
-                            "function": "enchant_with_levels",
-                            "treasure": true,
-                            "levels": {
-                                "min": 10,
-                                "max": 28,
-                                "type": "minecraft:uniform"
-                            }
-                        }
+						}
                     ]
                 },
 				
@@ -2215,16 +1964,7 @@
 							"text": "Very Rare Diamond Chestplate",
 							"color": "dark_purple"
 							}
-						},
-                        {
-                            "function": "enchant_with_levels",
-                            "treasure": true,
-                            "levels": {
-                                "min": 10,
-                                "max": 28,
-                                "type": "minecraft:uniform"
-                            }
-                        }
+						}
                     ]
                 },
 				
@@ -2293,16 +2033,7 @@
 							"text": "Very Rare Diamond Leggings",
 							"color": "dark_purple"
 							}
-						},
-                        {
-                            "function": "enchant_with_levels",
-                            "treasure": true,
-                            "levels": {
-                                "min": 10,
-                                "max": 28,
-                                "type": "minecraft:uniform"
-                            }
-                        }
+						}
                     ]
                 },
 				
@@ -2371,16 +2102,7 @@
 							"text": "Very Rare Diamond Boots",
 							"color": "dark_purple"
 							}
-						},
-                        {
-                            "function": "enchant_with_levels",
-                            "treasure": true,
-                            "levels": {
-                                "min": 10,
-                                "max": 28,
-                                "type": "minecraft:uniform"
-                            }
-                        }
+						}
                     ]
                 },
 				
@@ -2449,16 +2171,7 @@
 							"text": "Very Rare Turtle Shell",
 							"color": "dark_purple"
 							}
-						},
-                        {
-                            "function": "enchant_with_levels",
-                            "treasure": true,
-                            "levels": {
-                                "min": 10,
-                                "max": 28,
-                                "type": "minecraft:uniform"
-                            }
-                        }
+						}
                     ]
                 },
 				

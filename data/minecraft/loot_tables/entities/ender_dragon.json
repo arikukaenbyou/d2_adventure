@@ -5,7 +5,7 @@
       "rolls": {
         "type": "minecraft:uniform",
         "min": 35,
-        "max": 45
+        "max": 105
       },
       "bonus_rolls": {
         "type": "minecraft:uniform",
@@ -42,16 +42,14 @@
       },
       "entries": [
         {
-          "type": "minecraft:loot_table",
-          "weight": 70,
-          "quality": 1,
-          "name": "rpgloot:rare_items"
+          "type": "minecraft:item",
+          "weight": 100,
+          "name": "minecraft:experience_bottle"
         },
         {
-          "type": "minecraft:loot_table",
-          "weight": 5,
-          "quality": 3,
-          "name": "rpgloot:veryrare_items"
+          "type": "minecraft:item",
+          "weight": 10,          
+          "name": "minecraft:elytra"
         },
         {
           "type": "minecraft:item",

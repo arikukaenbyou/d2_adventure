@@ -53,16 +53,8 @@
 							"text": "Uncommon Wooden Sword",
 							"color": "green"
 							}
-						},
-                        {
-                            "function": "enchant_with_levels",
-                            "treasure": true,
-                            "levels": {
-                                "min": 0,
-                                "max": 10,
-                                "type": "minecraft:uniform"
-                            }
-                        }
+						}
+
                     ]
                 },
 
@@ -112,16 +104,8 @@
 							"text": "Uncommon Stone Sword",
 							"color": "green"
 							}
-						},
-                        {
-                            "function": "enchant_with_levels",
-                            "treasure": true,
-                            "levels": {
-                                "min": 0,
-                                "max": 15,
-                                "type": "minecraft:uniform"
-                            }
-                        }
+						}
+
                     ]
                 },
 
@@ -168,16 +152,7 @@
 							"text": "Uncommon Golden Sword",
 							"color": "green"
 							}
-						},
-                        {
-                            "function": "enchant_with_levels",
-                            "treasure": true,
-                            "levels": {
-                                "min": 10,
-                                "max": 21,
-                                "type": "minecraft:uniform"
-                            }
-                        }
+						} 
                     ]
                 },
 
@@ -394,16 +369,7 @@
 							"text": "Uncommon Golden Axe",
 							"color": "green"
 							}
-						},
-                        {
-                            "function": "enchant_with_levels",
-                            "treasure": true,
-                            "levels": {
-                                "min": 10,
-                                "max": 21,
-                                "type": "minecraft:uniform"
-                            }
-                        }
+						} 
                     ]
                 },
 
@@ -1100,16 +1066,7 @@
 							"text": "Uncommon Golden Helmet",
 							"color": "green"
 							}
-						},
-                        {
-                            "function": "enchant_with_levels",
-                            "treasure": true,
-                            "levels": {
-                                "min": 10,
-                                "max": 21,
-                                "type": "minecraft:uniform"
-                            }
-                        }
+						} 
                     ]
                 },
 			{
@@ -1155,16 +1112,7 @@
 							"text": "Uncommon Golden Chestplate",
 							"color": "green"
 							}
-						},
-                        {
-                            "function": "enchant_with_levels",
-                            "treasure": true,
-                            "levels": {
-                                "min": 10,
-                                "max": 21,
-                                "type": "minecraft:uniform"
-                            }
-                        }
+						} 
                     ]
                 },
 				
@@ -1211,16 +1159,7 @@
 							"text": "Uncommon Golden Leggings",
 							"color": "green"
 							}
-						},
-                        {
-                            "function": "enchant_with_levels",
-                            "treasure": true,
-                            "levels": {
-                                "min": 10,
-                                "max": 21,
-                                "type": "minecraft:uniform"
-                            }
-                        }
+						} 
                     ]
                 },
 				
@@ -1267,16 +1206,7 @@
 							"text": "Uncommon Golden Boots",
 							"color": "green"
 							}
-						},
-                        {
-                            "function": "enchant_with_levels",
-                            "treasure": true,
-                            "levels": {
-                                "min": 10,
-                                "max": 21,
-                                "type": "minecraft:uniform"
-                            }
-                        }
+						} 
                     ]
                 },
 				

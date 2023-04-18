@@ -1,16 +1,16 @@
 {
-  "type": "minecraft:chest",
+  "type": "minecraft:item",
   "pools": [
     
 	{
       "rolls": {
         "min": 0.0,
-        "max": 2.0,
+        "max": 20.0,
         "type": "minecraft:uniform"
       },
 	  "bonus_rolls": {
         "min": 0.0,
-        "max": 1.0,
+        "max": 5.0,
         "type": "minecraft:uniform"
 		},
       "entries": [
@@ -23,7 +23,7 @@
               "function": "minecraft:set_count",
               "count": {
                 "min": 1.0,
-                "max": 1.0,
+                "max": 20.0,
                 "type": "minecraft:uniform"
               }
             }
@@ -31,44 +31,6 @@
           "name": "minecraft:experience_bottle"
         }
       ]
-    },
-		
-		{
-        "rolls": {
-        "min": 0.0,
-        "max": 1.0,
-        "type": "minecraft:uniform"
-		},
-		"bonus_rolls": {
-        "min": 0.0,
-        "max": 1.0,
-        "type": "minecraft:uniform"
-		},
-		"conditions": [
-                {
-                    "condition": "killed_by_player"
-                }
-            ],
-				"entries": [
-			 {
-                    "type": "minecraft:item",
-                    "name": "minecraft:totem_of_undying",
-                    "weight": 5,
-					"quality": 0 
-             }			 
-            		
-				]  
-
-		}
-	]
-
+    }		
+          ]
 }
-
-
-
-
-
-
-
-
-

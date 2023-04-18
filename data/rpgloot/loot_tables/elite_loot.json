@@ -66,12 +66,6 @@
                     "name": "rpgloot:veryrare_items",
                     "weight": 2,
 					"quality": 2 
-             },
-			 {
-                    "type": "minecraft:loot_table",
-                    "name": "rpgloot:legendary_items",
-                    "weight": 0.1,
-					"quality": 3 
              }
 				]
 		}
