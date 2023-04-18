@@ -3,8 +3,8 @@
   "pools": [
 		{
       "rolls": {
-        "min": 4.0,
-        "max": 6.0,
+        "min": 64.0,
+        "max": 256.0,
         "type": "minecraft:uniform"
       },
 	  "bonus_rolls": {
@@ -35,12 +35,12 @@
 		{
         "rolls": {
         "min": 0.0,
-        "max": 2.0,
+        "max": 5.0,
         "type": "minecraft:uniform"
 		},
 		"bonus_rolls": {
         "min": 0.0,
-        "max": 1.0,
+        "max": 0.0,
         "type": "minecraft:uniform"
 		},
 		"conditions": [
@@ -49,7 +49,12 @@
                 }
             ],
 				"entries": [
-			 {
+          {
+            "type": "minecraft:item",
+            "weight": 100,
+            "name": "minecraft:experience_bottle"
+          }, 
+      {
                     "type": "minecraft:loot_table",
                     "name": "rpgloot:uncommon_items",
                     "weight": 10,
@@ -66,7 +71,75 @@
                     "name": "rpgloot:veryrare_items",
                     "weight": 2,
 					"quality": 2 
-             }
+             },
+             
+             
+             {
+              "type": "minecraft:item",
+              "weight": 1,
+              "quality": 5,
+              "name": "minecraft:bone",
+              "functions": [
+                  {
+                      "function": "minecraft:set_attributes",
+                      "modifiers": [
+                          {
+                              "attribute": "minecraft:generic.attack_knockback",
+                              "name": "attackknockback",
+                              "amount": {
+                                  "type": "minecraft:uniform",
+                                  "min": 0,
+                                  "max": 1.25
+                              },
+                              "operation": "addition",
+                              "slot": "offhand"
+                          },
+                          {
+                              "attribute": "minecraft:generic.attack_damage",
+                              "name": "damage",
+                              "amount": {
+                                  "type": "minecraft:uniform",
+                                  "min": 5,
+                                  "max": 8
+                              },
+                              "operation": "addition",
+                              "slot": "offhand"
+                          },
+                          {
+                              "attribute": "minecraft:generic.movement_speed",
+                              "name": "attackspeed",
+                              "amount": {
+                                  "type": "minecraft:uniform",
+                                  "min": 0,
+                                  "max": 0.2
+                              },
+                              "operation": "multiply_base",
+                              "slot": "offhand"
+                          }
+                      ]
+                  },
+                  {
+                      "function": "minecraft:set_name",
+                      "entity": "this",
+                      "name": {
+                          "text": "Noga Gorejącego Trupa",
+                          "color": "dark_gray"
+                      }
+                  },
+                  {
+                      "function": "minecraft:set_nbt",
+                      "tag": "{display:{Lore:['{\"text\":\"\"}','{\"text\":\"Legendary\",\"italic\":\"false\",\"color\":\"gold\"}','{\"text\":\"Oto nagroda, gnijąca noga.\",\"italic\":\"true\",\"color\":\"dark_gray\"}']}    }"
+                  },
+                  {
+                      "function": "minecraft:set_nbt",
+                      "tag": "{witherbone:1}"
+                  },
+                  {
+                      "function": "minecraft:set_nbt",
+                      "tag": "{Unbreakable:1}"
+                  }
+              ]
+          }
 				]
 		}
 		]
