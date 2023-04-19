@@ -29,17 +29,6 @@
                                       "max": 4.4,
                                       "type": "minecraft:uniform"
                                   }
-                               },
-                               {
-                                  "name": "attackSpeed",
-                                  "attribute": "generic.attack_speed",
-                                  "operation": "addition",
-                                  "slot": "mainhand",
-                                  "amount": {
-                                      "min": -2.4,
-                                      "max": -2.06,
-                                      "type": "minecraft:uniform"
-                                  }
                                }
                             ]
                         },
@@ -80,17 +69,6 @@
                                       "max": 6.0,
                                       "type": "minecraft:uniform"
                                   }
-                               },
-							   {
-                                  "name": "attackSpeed",
-                                  "attribute": "generic.attack_speed",
-                                  "operation": "addition",
-                                  "slot": "mainhand",
-                                  "amount": {
-                                      "min": -2.4,
-                                      "max": -2.4,
-                                      "type": "minecraft:uniform"
-                                  }
                                }
                             ]
                         },
@@ -126,17 +104,6 @@
                                   "amount": {
                                       "min": 4,
                                       "max": 4.4,
-                                      "type": "minecraft:uniform"
-                                  }
-                               },
-                               {
-                                  "name": "attackSpeed",
-                                  "attribute": "generic.attack_speed",
-                                  "operation": "addition",
-                                  "slot": "mainhand",
-                                  "amount": {
-                                      "min": -2.4,
-                                      "max": -2.24,
                                       "type": "minecraft:uniform"
                                   }
                                }
@@ -175,17 +142,6 @@
                                       "max": 6.6,
                                       "type": "minecraft:uniform"
                                   }
-                               },
-                               {
-                                  "name": "attackSpeed",
-                                  "attribute": "generic.attack_speed",
-                                  "operation": "addition",
-                                  "slot": "mainhand",
-                                  "amount": {
-                                      "min": -2.4,
-                                      "max": -2.16,
-                                      "type": "minecraft:uniform"
-                                  }
                                }
                             ]
                         },
@@ -199,16 +155,7 @@
 							"text": "Uncommon Iron Sword",
 							"color": "green"
 							}
-						},
-                        {
-                            "function": "enchant_with_levels",
-                            "treasure": true,
-                            "levels": {
-                                "min": 0,
-                                "max": 15,
-                                "type": "minecraft:uniform"
-                            }
-                        }
+						}
                     ]
                 },
 				{
@@ -230,17 +177,6 @@
                                       "max": 8.4,
                                       "type": "minecraft:uniform"
                                   }
-                               },
-                               {
-                                  "name": "attackSpeed",
-                                  "attribute": "generic.attack_speed",
-                                  "operation": "addition",
-                                  "slot": "mainhand",
-                                  "amount": {
-                                      "min": -3.2,
-                                      "max": -3.04,
-                                      "type": "minecraft:uniform"
-                                  }
                                }
                             ]
                         },
@@ -254,16 +190,7 @@
 							"text": "Uncommon Wooden Axe",
 							"color": "green"
 							}
-						},
-                        {
-                            "function": "enchant_with_levels",
-                            "treasure": true,
-                            "levels": {
-                                "min": 0,
-                                "max": 10,
-                                "type": "minecraft:uniform"
-                            }
-                        }
+						}
                     ]
                 },
 
@@ -289,17 +216,6 @@
                                       "max": 11.7,
                                       "type": "minecraft:uniform"
                                   }
-                               },
-							   {
-                                  "name": "attackSpeed",
-                                  "attribute": "generic.attack_speed",
-                                  "operation": "addition",
-                                  "slot": "mainhand",
-                                  "amount": {
-                                      "min": -3.2,
-                                      "max": -3.2,
-                                      "type": "minecraft:uniform"
-                                  }
                                }
                             ]
                         },
@@ -313,16 +229,7 @@
 							"text": "Uncommon Stone Axe",
 							"color": "green"
 							}
-						},
-                        {
-                            "function": "enchant_with_levels",
-                            "treasure": true,
-                            "levels": {
-                                "min": 0,
-                                "max": 15,
-                                "type": "minecraft:uniform"
-                            }
-                        }
+						}
                     ]
                 },
 
@@ -343,17 +250,6 @@
                                   "amount": {
                                       "min": 7.0,
                                       "max": 8.4,
-                                      "type": "minecraft:uniform"
-                                  }
-                               },
-                               {
-                                  "name": "attackSpeed",
-                                  "attribute": "generic.attack_speed",
-                                  "operation": "addition",
-                                  "slot": "mainhand",
-                                  "amount": {
-                                      "min": -3.0,
-                                      "max": -2.9,
                                       "type": "minecraft:uniform"
                                   }
                                }
@@ -392,17 +288,6 @@
                                       "max": 10.6,
                                       "type": "minecraft:uniform"
                                   }
-                               },
-                               {
-                                  "name": "attackSpeed",
-                                  "attribute": "generic.attack_speed",
-                                  "operation": "addition",
-                                  "slot": "mainhand",
-                                  "amount": {
-                                      "min": -3.1,
-                                      "max": -2.97,
-                                      "type": "minecraft:uniform"
-                                  }
                                }
                             ]
                         },
@@ -416,16 +301,7 @@
 							"text": "Uncommon Iron Axe",
 							"color": "green"
 							}
-						},
-                        {
-                            "function": "enchant_with_levels",
-                            "treasure": true,
-                            "levels": {
-                                "min": 0,
-                                "max": 15,
-                                "type": "minecraft:uniform"
-                            }
-                        }
+						}
                     ]
                 },
 
@@ -447,17 +323,6 @@
                                       "max": 9.9,
                                       "type": "minecraft:uniform"
                                   }
-                               },
-                               {
-                                  "name": "attackSpeed",
-                                  "attribute": "generic.attack_speed",
-                                  "operation": "addition",
-                                  "slot": "mainhand",
-                                  "amount": {
-                                      "min": -2.9,
-                                      "max": -2.79,
-                                      "type": "minecraft:uniform"
-                                  }
                                }
                             ]
                         },
@@ -471,16 +336,7 @@
 							"text": "Uncommon Trident",
 							"color": "green"
 							}
-						},
-                        {
-                            "function": "enchant_with_levels",
-                            "treasure": true,
-                            "levels": {
-                                "min": 0,
-                                "max": 15,
-                                "type": "minecraft:uniform"
-                            }
-                        }
+						}
                     ]
                 },
 				
@@ -576,16 +432,7 @@
 							"text": "Uncommon Leather Cap",
 							"color": "green"
 							}
-						},
-                        {
-                            "function": "enchant_with_levels",
-                            "treasure": true,
-                            "levels": {
-                                "min": 0,
-                                "max": 10,
-                                "type": "minecraft:uniform"
-                            }
-                        }
+						}
                     ]
                 },
 			{
@@ -631,16 +478,7 @@
 							"text": "Uncommon Leather Tunic",
 							"color": "green"
 							}
-						},
-                        {
-                            "function": "enchant_with_levels",
-                            "treasure": true,
-                            "levels": {
-                                "min": 0,
-                                "max": 10,
-                                "type": "minecraft:uniform"
-                            }
-                        }
+						}
                     ]
                 },
 				
@@ -687,16 +525,7 @@
 							"text": "Uncommon Leather Pants",
 							"color": "green"
 							}
-						},
-                        {
-                            "function": "enchant_with_levels",
-                            "treasure": true,
-                            "levels": {
-                                "min": 0,
-                                "max": 10,
-                                "type": "minecraft:uniform"
-                            }
-                        }
+						}
                     ]
                 },
 				
@@ -743,16 +572,7 @@
 							"text": "Uncommon Leather Boots",
 							"color": "green"
 							}
-						},
-                        {
-                            "function": "enchant_with_levels",
-                            "treasure": true,
-                            "levels": {
-                                "min": 0,
-                                "max": 10,
-                                "type": "minecraft:uniform"
-                            }
-                        }
+						}
                     ]
                 },
 				
@@ -810,16 +630,7 @@
 							"text": "Uncommon Chainmail Helmet",
 							"color": "green"
 							}
-						},
-                        {
-                            "function": "enchant_with_levels",
-                            "treasure": true,
-                            "levels": {
-                                "min": 0,
-                                "max": 15,
-                                "type": "minecraft:uniform"
-                            }
-                        }
+						}
                     ]
                 },
 			{
@@ -876,16 +687,7 @@
 							"text": "Uncommon Chainmail Chestplate",
 							"color": "green"
 							}
-						},
-                        {
-                            "function": "enchant_with_levels",
-                            "treasure": true,
-                            "levels": {
-                                "min": 0,
-                                "max": 15,
-                                "type": "minecraft:uniform"
-                            }
-                        }
+						}
                     ]
                 },
 				
@@ -943,16 +745,7 @@
 							"text": "Uncommon Chainmail Leggings",
 							"color": "green"
 							}
-						},
-                        {
-                            "function": "enchant_with_levels",
-                            "treasure": true,
-                            "levels": {
-                                "min": 0,
-                                "max": 15,
-                                "type": "minecraft:uniform"
-                            }
-                        }
+						}
                     ]
                 },
 				
@@ -1010,16 +803,7 @@
 							"text": "Uncommon Chainmail Boots",
 							"color": "green"
 							}
-						},
-                        {
-                            "function": "enchant_with_levels",
-                            "treasure": true,
-                            "levels": {
-                                "min": 0,
-                                "max": 15,
-                                "type": "minecraft:uniform"
-                            }
-                        }
+						}
                     ]
                 },
 				
@@ -1253,16 +1037,7 @@
 							"text": "Uncommon Iron Helmet",
 							"color": "green"
 							}
-						},
-                        {
-                            "function": "enchant_with_levels",
-                            "treasure": true,
-                            "levels": {
-                                "min": 0,
-                                "max": 15,
-                                "type": "minecraft:uniform"
-                            }
-                        }
+						}
                     ]
                 },
 			{
@@ -1308,16 +1083,7 @@
 							"text": "Uncommon Iron Chestplate",
 							"color": "green"
 							}
-						},
-                        {
-                            "function": "enchant_with_levels",
-                            "treasure": true,
-                            "levels": {
-                                "min": 0,
-                                "max": 15,
-                                "type": "minecraft:uniform"
-                            }
-                        }
+						}
                     ]
                 },
 				
@@ -1364,16 +1130,7 @@
 							"text": "Uncommon Iron Leggings",
 							"color": "green"
 							}
-						},
-                        {
-                            "function": "enchant_with_levels",
-                            "treasure": true,
-                            "levels": {
-                                "min": 0,
-                                "max": 15,
-                                "type": "minecraft:uniform"
-                            }
-                        }
+						}
                     ]
                 },
 				
@@ -1420,16 +1177,7 @@
 							"text": "Uncommon Iron Boots",
 							"color": "green"
 							}
-						},
-                        {
-                            "function": "enchant_with_levels",
-                            "treasure": true,
-                            "levels": {
-                                "min": 0,
-                                "max": 15,
-                                "type": "minecraft:uniform"
-                            }
-                        }
+						}
                     ]
                 },
 				
@@ -1487,16 +1235,7 @@
 							"text": "Uncommon Turtle Shell",
 							"color": "green"
 							}
-						},
-                        {
-                            "function": "enchant_with_levels",
-                            "treasure": true,
-                            "levels": {
-                                "min": 0,
-                                "max": 15,
-                                "type": "minecraft:uniform"
-                            }
-                        }
+						}
                     ]
                 },
 				
