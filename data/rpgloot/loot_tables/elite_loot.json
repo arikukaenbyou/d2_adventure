@@ -3,8 +3,8 @@
   "pools": [
 		{
       "rolls": {
-        "min": 64.0,
-        "max": 256.0,
+        "min": 1.0,
+        "max": 64.0,
         "type": "minecraft:uniform"
       },
 	  "bonus_rolls": {
@@ -70,7 +70,7 @@
                     "type": "minecraft:loot_table",
                     "name": "rpgloot:veryrare_items",
                     "weight": 2,
-					"quality": 2 
+					"quality": 3 
              },
              
              
