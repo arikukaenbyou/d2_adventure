@@ -27,6 +27,17 @@
                                       "max": 12.15,
                                       "type": "minecraft:uniform"
                                   }
+                                },
+                                  {
+                                    "name": "attackSpeed",
+                                    "attribute": "generic.attack_speed",
+                                    "operation": "addition",
+                                    "slot": "mainhand",
+                                    "amount": {
+                                        "min": -2.08,
+                                        "max": -1.44,
+                                        "type": "minecraft:uniform"
+                                    }
                                }
                             ]
                         },
@@ -63,6 +74,17 @@
                                       "max": 12.15,
                                       "type": "minecraft:uniform"
                                   }
+                                },
+                                {
+                                   "name": "attackSpeed",
+                                   "attribute": "generic.attack_speed",
+                                   "operation": "addition",
+                                   "slot": "mainhand",
+                                   "amount": {
+                                       "min": -2.4,
+                                       "max": -2.4,
+                                       "type": "minecraft:uniform"
+                                   }
                                }
                             ]
                         },
@@ -99,6 +121,17 @@
                                       "max": 12.15,
                                       "type": "minecraft:uniform"
                                   }
+                                },
+                                {
+                                   "name": "attackSpeed",
+                                   "attribute": "generic.attack_speed",
+                                   "operation": "addition",
+                                   "slot": "mainhand",
+                                   "amount": {
+                                       "min": -2.16,
+                                       "max": -1.92,
+                                       "type": "minecraft:uniform"
+                                   }
                                }
                             ]
                         },
@@ -135,6 +168,17 @@
                                       "max": 12.15,
                                       "type": "minecraft:uniform"
                                   }
+                                },
+                                {
+                                   "name": "attackSpeed",
+                                   "attribute": "generic.attack_speed",
+                                   "operation": "addition",
+                                   "slot": "mainhand",
+                                   "amount": {
+                                       "min": -2.16,
+                                       "max": -1.68,
+                                       "type": "minecraft:uniform"
+                                   }
                                }
                             ]
                         },
@@ -171,6 +215,17 @@
                                       "max": 12.15,
                                       "type": "minecraft:uniform"
                                   }
+                                },
+                                  {
+                                    "name": "attackSpeed",
+                                    "attribute": "generic.attack_speed",
+                                    "operation": "addition",
+                                    "slot": "mainhand",
+                                    "amount": {
+                                        "min": -2.24,
+                                        "max": -1.92,
+                                        "type": "minecraft:uniform"
+                                    }
                                }
                             ]
                         },
@@ -207,6 +262,17 @@
                                       "max": 16.2,
                                       "type": "minecraft:uniform"
                                   }
+                                },
+                                {
+                                   "name": "attackSpeed",
+                                   "attribute": "generic.attack_speed",
+                                   "operation": "addition",
+                                   "slot": "mainhand",
+                                   "amount": {
+                                       "min": -3.04,
+                                       "max": -2.72,
+                                       "type": "minecraft:uniform"
+                                   }
                                }
                             ]
                         },
@@ -246,7 +312,19 @@
                                       "max": 16.2,
                                       "type": "minecraft:uniform"
                                   }
+                               },                            
+                            
+                            {
+                               "name": "attackSpeed",
+                               "attribute": "generic.attack_speed",
+                               "operation": "addition",
+                               "slot": "mainhand",
+                               "amount": {
+                                   "min": -3.2,
+                                   "max": -3.2,
+                                   "type": "minecraft:uniform"
                                }
+                            }
                             ]
                         },
                         {
@@ -282,7 +360,19 @@
                                       "max": 16.2,
                                       "type": "minecraft:uniform"
                                   }
+                                
+                            },
+                            {
+                               "name": "attackSpeed",
+                               "attribute": "generic.attack_speed",
+                               "operation": "addition",
+                               "slot": "mainhand",
+                               "amount": {
+                                   "min": -2.9,
+                                   "max": -2.7,
+                                   "type": "minecraft:uniform"
                                }
+                            }
                             ]
                         },
                         {
@@ -318,7 +408,19 @@
                                       "max": 16.2,
                                       "type": "minecraft:uniform"
                                   }
+                               },
+                            
+                            {
+                               "name": "attackSpeed",
+                               "attribute": "generic.attack_speed",
+                               "operation": "addition",
+                               "slot": "mainhand",
+                               "amount": {
+                                   "min": -2.87,
+                                   "max": -2.71,
+                                   "type": "minecraft:uniform"
                                }
+                            }
                             ]
                         },
                         {
@@ -354,8 +456,19 @@
                                       "min": 10.4,
                                       "max": 16.2,
                                       "type": "minecraft:uniform"
-                                  }
-                               }
+                                    }
+                                },
+                                {
+                                   "name": "attackSpeed",
+                                   "attribute": "generic.attack_speed",
+                                   "operation": "addition",
+                                   "slot": "mainhand",
+                                   "amount": {
+                                       "min": -2.9,
+                                       "max": -2.7,
+                                       "type": "minecraft:uniform"
+                                   }
+                                }
                             ]
                         },
                         {
